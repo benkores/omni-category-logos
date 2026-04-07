@@ -1,13 +1,14 @@
 {
   "filters" : [
     {
+      "borderColor" : "#000000",
       "groupId" : "7c211433-9f2b-4e2f-9b8c-2f9a8e8c8b1e",
       "id" : "d4e5f6a7-b8c9-0d1e-2f3a-3b5c6d7e8f9a",
       "imageURL" : "https:\/\/raw.githubusercontent.com\/jorgitoxp\/Regexes\/refs\/heads\/main\/mousa.m%20icons\/REMUX1.png",
       "isEnabled" : true,
       "name" : "Remux 1",
       "pattern" : "(?i)\\bRemux\\b.*\\b(3L|BiZKiT|BLURANiUM|CiNEPHiLES|FraMeSToR|PmP|ZQ)\\b|-BMF|-WiLDCAT",
-      "tagColor" : "#000000",
+      "tagColor" : "#FF3B30",
       "tagStyle" : "filled",
       "textColor" : "#FFFFFF",
       "type" : "filter"
@@ -37,13 +38,14 @@
       "type" : "filter"
     },
     {
+      "borderColor" : "#000000",
       "groupId" : "7c211433-9f2b-4e2f-9b8c-2f9a8e8c8b1e",
       "id" : "d4e5f6a7-b8c9-0d1e-2f3a-3b5c4d7e8f9a",
       "imageURL" : "https:\/\/raw.githubusercontent.com\/jorgitoxp\/Regexes\/refs\/heads\/main\/mousa.m%20icons\/Blue-Ray1.png",
       "isEnabled" : true,
       "name" : "Bluray 1",
       "pattern" : "(?i)^(?=.*\\bBlu[-_]?Ray\\b)(?!.*\\bRemux\\b)(?!.*\\bWEB[-_.]?(?:DL|Rip)\\b)(?=.*(?:\\b(?:BBQ|c0kE|Chotab|CRiSC|CtrlHD|D-Z0N3|Dariush|decibeL|DON|EbP|EDPH|Geek|LolHD|MainFrame|NCmt|NTb|PTer|TayTO|TDD|TnP|VietHD|W4NK3R|ZQ)\\b|-BMF)).*",
-      "tagColor" : "#000000",
+      "tagColor" : "#FF3B30",
       "tagStyle" : "filled",
       "textColor" : "#FFFFFF",
       "type" : "filter"
@@ -73,13 +75,14 @@
       "type" : "filter"
     },
     {
+      "borderColor" : "#000000",
       "groupId" : "7c211433-9f2b-4e2f-9b8c-2f9a8e8c8b1e",
       "id" : "d4e2f6a7-b3c9-0d1e-2f3a-3b5c4d7e8f9a",
       "imageURL" : "https:\/\/raw.githubusercontent.com\/jorgitoxp\/json-files\/refs\/heads\/main\/rik%20icons\/webdl1%20.png",
       "isEnabled" : true,
       "name" : "Web 1",
       "pattern" : "(?i)^(?=.*\\bWEB[-_.]?(?:DL|RIP)\\b)(?=.*\\b(?:ABBIE|AJP69|APEX|PAXA|PEXA|XEPA|BLUTONiUM|CasStudio|CMRG|CRFW|CRUD|CtrlHD|FLUX|GNOME|HONE|KiNGS|Kitsune|monkee|NOSiViD|NTb|NTG|QOQ|RTN|SiC|TEPES|T6D|TOMMY|ViSUM)\\b).*",
-      "tagColor" : "#000000",
+      "tagColor" : "#FF3B30",
       "tagStyle" : "filled",
       "textColor" : "#FFFFFF",
       "type" : "filter"
@@ -337,13 +340,14 @@
       "type" : "filter"
     },
     {
+      "borderColor" : "#000000",
       "groupId" : "9f8e7d6c-3b2a-4f1e-9c8d-5a6b7e4f3d2c",
       "id" : "1a2b3c4d-5e6f-7a8b-9c0d-1e2f3a4b5c6d",
       "imageURL" : "https:\/\/raw.githubusercontent.com\/jorgitoxp\/Regexes\/refs\/heads\/main\/mousa.m%20icons\/51.png",
       "isEnabled" : true,
       "name" : "5.1 CH",
       "pattern" : "(?i)(?<![0-9])5\\.[0-1]\\b",
-      "tagColor" : "#000000",
+      "tagColor" : "#FF9500",
       "tagStyle" : "filled",
       "textColor" : "#FFFFFF",
       "type" : "filter"
