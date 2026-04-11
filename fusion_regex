@@ -2,7 +2,6 @@
   "filters" : [
     {
       "borderColor" : "#000000",
-      "groupId" : "7c211433-9f2b-4e2f-9b8c-2f9a8e8c8b1e",
       "id" : "d4e5f6a7-b8c9-0d1e-2f3a-3b5c6d7e8f9a",
       "imageURL" : "https:\/\/raw.githubusercontent.com\/jorgitoxp\/Regexes\/refs\/heads\/main\/mousa.m%20icons\/REMUX1.png",
       "isEnabled" : true,
@@ -14,7 +13,7 @@
       "type" : "filter"
     },
     {
-      "groupId" : "7c211433-9f2b-4e2f-9b8c-2f9a8e8c8b1e",
+      "borderColor" : "#000000",
       "id" : "d4e5f6a7-b8c9-0d1e-2f5a-3b5c6d7e8f9a",
       "imageURL" : "https:\/\/raw.githubusercontent.com\/jorgitoxp\/Regexes\/refs\/heads\/main\/mousa.m%20icons\/REMUX2.png",
       "isEnabled" : true,
@@ -26,7 +25,7 @@
       "type" : "filter"
     },
     {
-      "groupId" : "7c211433-9f2b-4e2f-9b8c-2f9a8e8c8b1e",
+      "borderColor" : "#000000",
       "id" : "d4e5f6a7-b8c7-0d1e-2f5a-3b5c6d7e8f9a",
       "imageURL" : "https:\/\/raw.githubusercontent.com\/jorgitoxp\/Regexes\/refs\/heads\/main\/mousa.m%20icons\/REMUX3.png",
       "isEnabled" : true,
@@ -39,7 +38,6 @@
     },
     {
       "borderColor" : "#000000",
-      "groupId" : "7c211433-9f2b-4e2f-9b8c-2f9a8e8c8b1e",
       "id" : "d4e5f6a7-b8c9-0d1e-2f3a-3b5c4d7e8f9a",
       "imageURL" : "https:\/\/raw.githubusercontent.com\/jorgitoxp\/Regexes\/refs\/heads\/main\/mousa.m%20icons\/Blue-Ray1.png",
       "isEnabled" : true,
@@ -51,7 +49,7 @@
       "type" : "filter"
     },
     {
-      "groupId" : "7c211433-9f2b-4e2f-9b8c-2f9a8e8c8b1e",
+      "borderColor" : "#000000",
       "id" : "d4e5f6a7-b7c9-0d1e-2f3a-3b5c4d7e8f9a",
       "imageURL" : "https:\/\/raw.githubusercontent.com\/jorgitoxp\/Regexes\/refs\/heads\/main\/mousa.m%20icons\/Blue-Ray2.png",
       "isEnabled" : true,
@@ -63,7 +61,7 @@
       "type" : "filter"
     },
     {
-      "groupId" : "7c211433-9f2b-4e2f-9b8c-2f9a8e8c8b1e",
+      "borderColor" : "#000000",
       "id" : "d4e2f6a7-b7c9-0d1e-2f3a-3b5c4d7e8f9a",
       "imageURL" : "https:\/\/raw.githubusercontent.com\/jorgitoxp\/Regexes\/refs\/heads\/main\/mousa.m%20icons\/Blue-Ray3.png",
       "isEnabled" : true,
@@ -76,7 +74,6 @@
     },
     {
       "borderColor" : "#000000",
-      "groupId" : "7c211433-9f2b-4e2f-9b8c-2f9a8e8c8b1e",
       "id" : "d4e2f6a7-b3c9-0d1e-2f3a-3b5c4d7e8f9a",
       "imageURL" : "https:\/\/raw.githubusercontent.com\/jorgitoxp\/json-files\/refs\/heads\/main\/rik%20icons\/webdl1%20.png",
       "isEnabled" : true,
@@ -88,7 +85,7 @@
       "type" : "filter"
     },
     {
-      "groupId" : "7c211433-9f2b-4e2f-9b8c-2f9a8e8c8b1e",
+      "borderColor" : "#000000",
       "id" : "d4e2f6a7-b3c6-0d1e-2f3a-3b5c4d7e8f9a",
       "imageURL" : "https:\/\/raw.githubusercontent.com\/jorgitoxp\/json-files\/refs\/heads\/main\/rik%20icons\/webdl2.png",
       "isEnabled" : true,
@@ -100,7 +97,7 @@
       "type" : "filter"
     },
     {
-      "groupId" : "7c211433-9f2b-4e2f-9b8c-2f9a8e8c8b1e",
+      "borderColor" : "#000000",
       "id" : "d4e2f6a7-b3c6-0d1e-2f3a-3b5c4d7e1f9a",
       "imageURL" : "https:\/\/raw.githubusercontent.com\/jorgitoxp\/json-files\/refs\/heads\/main\/rik%20icons\/webdl3.png",
       "isEnabled" : true,
@@ -112,7 +109,7 @@
       "type" : "filter"
     },
     {
-      "groupId" : "7c211433-9f2b-4e2f-9b8c-2f9a8e8c8b1e",
+      "borderColor" : "#000000",
       "id" : "d4e2f6a7-b3c1-0d1e-2f3a-3b5c4d7e1f9a",
       "imageURL" : "https:\/\/raw.githubusercontent.com\/jorgitoxp\/Regexes\/refs\/heads\/main\/mousa.m%20icons\/WebScene.png",
       "isEnabled" : true,
@@ -124,7 +121,7 @@
       "type" : "filter"
     },
     {
-      "groupId" : "550e8400-e29b-41d4-a716-446655440000",
+      "borderColor" : "#000000",
       "id" : "9f1a2b3c-4d5e-6f7a-8b9c-0d1e2f3a4b5c",
       "imageURL" : "https:\/\/raw.githubusercontent.com\/jorgitoxp\/Regexes\/refs\/heads\/main\/mousa.m%20icons\/4k.png",
       "isEnabled" : true,
@@ -136,7 +133,7 @@
       "type" : "filter"
     },
     {
-      "groupId" : "550e8400-e29b-41d4-a716-446655440000",
+      "borderColor" : "#000000",
       "id" : "a1b2c3d4-e5f6-7a8b-9c0d-1e2f3a4b5c6d",
       "imageURL" : "https:\/\/raw.githubusercontent.com\/jorgitoxp\/Regexes\/refs\/heads\/main\/mousa.m%20icons\/1080p.png",
       "isEnabled" : true,
@@ -148,7 +145,7 @@
       "type" : "filter"
     },
     {
-      "groupId" : "550e8400-e29b-41d4-a716-446655440000",
+      "borderColor" : "#000000",
       "id" : "b2c3d4e5-f6a7-8b9c-0d1e-2f3a4b5c6d7e",
       "imageURL" : "https:\/\/raw.githubusercontent.com\/jorgitoxp\/Regexes\/refs\/heads\/main\/mousa.m%20icons\/720p.png",
       "isEnabled" : true,
@@ -160,7 +157,7 @@
       "type" : "filter"
     },
     {
-      "groupId" : "6ba7b810-9dad-11d1-80b4-00c04fd430c8",
+      "borderColor" : "#007AFF",
       "id" : "f6a7b8c9-d0e1-2f3a-4b5c-6d7e8f9a0b1c",
       "imageURL" : "https:\/\/raw.githubusercontent.com\/jorgitoxp\/Regexes\/refs\/heads\/main\/mousa.m%20icons\/DV.png",
       "isEnabled" : true,
@@ -172,7 +169,7 @@
       "type" : "filter"
     },
     {
-      "groupId" : "6ba7b810-9dad-11d1-80b4-00c04fd430c8",
+      "borderColor" : "#34C759",
       "id" : "e5f6a7b8-c9d0-1e2f-3a4b-5c6d7e8f9a0b",
       "imageURL" : "https:\/\/raw.githubusercontent.com\/jorgitoxp\/json-files\/refs\/heads\/main\/rik%20icons\/hdr10%2B.png",
       "isEnabled" : true,
@@ -184,7 +181,7 @@
       "type" : "filter"
     },
     {
-      "groupId" : "6ba7b810-9dad-11d1-80b4-00c04fd430c8",
+      "borderColor" : "#000000",
       "id" : "d4e5f6a7-b8c9-0d1e-2f3a-4b5c6d7e8f9a",
       "imageURL" : "https:\/\/raw.githubusercontent.com\/jorgitoxp\/json-files\/refs\/heads\/main\/rik%20icons\/hdr10.png",
       "isEnabled" : true,
@@ -196,7 +193,7 @@
       "type" : "filter"
     },
     {
-      "groupId" : "6ba7b810-9dad-11d1-80b4-00c04fd430c8",
+      "borderColor" : "#000000",
       "id" : "c3d4e5f6-a7b8-9c0d-1e2f-3a4b5c6d7e8f",
       "imageURL" : "https:\/\/raw.githubusercontent.com\/jorgitoxp\/json-files\/refs\/heads\/main\/rik%20icons\/hdr.png",
       "isEnabled" : true,
@@ -208,7 +205,7 @@
       "type" : "filter"
     },
     {
-      "groupId" : "6ba7b810-9dad-11d1-80b4-00c04fd430c8",
+      "borderColor" : "#000000",
       "id" : "a7b8c9d0-e1f2-3a4b-5c6d-7e8f9a0b1c2d",
       "imageURL" : "https:\/\/raw.githubusercontent.com\/jorgitoxp\/json-files\/refs\/heads\/main\/rik%20icons\/sdr.png",
       "isEnabled" : true,
@@ -220,7 +217,7 @@
       "type" : "filter"
     },
     {
-      "groupId" : "8e4b6f8e-2c1e-4f6b-9e8d-3f7a9d1c2e3f",
+      "borderColor" : "#FF9500",
       "id" : "a3b4c5d6-e7f8-9a0b-1c2d-3e4f5a6b7c8d",
       "imageURL" : "https:\/\/raw.githubusercontent.com\/jorgitoxp\/Regexes\/refs\/heads\/main\/mousa.m%20icons\/Atmos.png",
       "isEnabled" : true,
@@ -232,7 +229,7 @@
       "type" : "filter"
     },
     {
-      "groupId" : "8e4b6f8e-2c1e-4f6b-9e8d-3f7a9d1c2e3f",
+      "borderColor" : "#000000",
       "id" : "d6e7f8a9-b0c1-2d3e-4f5a-6b7c8d9e0f1a",
       "imageURL" : "https:\/\/raw.githubusercontent.com\/jorgitoxp\/Regexes\/refs\/heads\/main\/mousa.m%20icons\/TrueHD.png",
       "isEnabled" : true,
@@ -244,7 +241,7 @@
       "type" : "filter"
     },
     {
-      "groupId" : "8e4b6f8e-2c1e-4f6b-9e8d-3f7a9d1c2e3f",
+      "borderColor" : "#000000",
       "id" : "f8a9b0c1-d2e3-4f5a-6b7c-8d9e0f1a2b3c",
       "imageURL" : "https:\/\/raw.githubusercontent.com\/jorgitoxp\/Regexes\/refs\/heads\/main\/mousa.m%20icons\/dtsx.png",
       "isEnabled" : true,
@@ -256,7 +253,7 @@
       "type" : "filter"
     },
     {
-      "groupId" : "8e4b6f8e-2c1e-4f6b-9e8d-3f7a9d1c2e3f",
+      "borderColor" : "#000000",
       "id" : "b4c5d6e7-f8a9-0b1c-2d3e-4f5a6b7c8d9e",
       "imageURL" : "https:\/\/raw.githubusercontent.com\/jorgitoxp\/Regexes\/refs\/heads\/main\/mousa.m%20icons\/dtsHDMA.png",
       "isEnabled" : true,
@@ -268,7 +265,7 @@
       "type" : "filter"
     },
     {
-      "groupId" : "8e4b6f8e-2c1e-4f6b-9e8d-3f7a9d1c2e3f",
+      "borderColor" : "#000000",
       "id" : "b8c5d6e7-f8a9-0b1c-2d3e-4f5a6b7c8d9e",
       "imageURL" : "https:\/\/raw.githubusercontent.com\/jorgitoxp\/Regexes\/refs\/heads\/main\/mousa.m%20icons\/dtsHD.png",
       "isEnabled" : true,
@@ -280,7 +277,7 @@
       "type" : "filter"
     },
     {
-      "groupId" : "8e4b6f8e-2c1e-4f6b-9e8d-3f7a9d1c2e3f",
+      "borderColor" : "#FF9500",
       "id" : "b8c5d6e7-f8a9-0b1c-2d3e-4f1a6b7c8d9e",
       "imageURL" : "https:\/\/raw.githubusercontent.com\/jorgitoxp\/Regexes\/refs\/heads\/main\/mousa.m%20icons\/DDPLUS.png",
       "isEnabled" : true,
@@ -292,7 +289,7 @@
       "type" : "filter"
     },
     {
-      "groupId" : "8e4b6f8e-2c1e-4f6b-9e8d-3f7a9d1c2e3f",
+      "borderColor" : "#000000",
       "id" : "b8c5d6e7-f8a9-0b1c-2d3e-4f1a6b1c8d9e",
       "imageURL" : "https:\/\/raw.githubusercontent.com\/jorgitoxp\/Regexes\/refs\/heads\/main\/mousa.m%20icons\/dts.png",
       "isEnabled" : true,
@@ -304,7 +301,7 @@
       "type" : "filter"
     },
     {
-      "groupId" : "8e4b6f8e-2c1e-4f6b-9e8d-3f7a9d1c2e3f",
+      "borderColor" : "#000000",
       "id" : "b8c5d6e9-f8a9-0b1c-2d3e-4f1a6b1c8d9e",
       "imageURL" : "https:\/\/raw.githubusercontent.com\/jorgitoxp\/Regexes\/refs\/heads\/main\/mousa.m%20icons\/DD.png",
       "isEnabled" : true,
@@ -316,7 +313,7 @@
       "type" : "filter"
     },
     {
-      "groupId" : "9f8e7d6c-3b2a-4f1e-9c8d-5a6b7e4f3d2c",
+      "borderColor" : "#000000",
       "id" : "3c4d5e6f-7a8b-9c0d-1e2f-3a4b5c6d7e8f",
       "imageURL" : "https:\/\/raw.githubusercontent.com\/jorgitoxp\/Regexes\/refs\/heads\/main\/mousa.m%20icons\/71.png",
       "isEnabled" : true,
@@ -328,7 +325,7 @@
       "type" : "filter"
     },
     {
-      "groupId" : "9f8e7d6c-3b2a-4f1e-9c8d-5a6b7e4f3d2c",
+      "borderColor" : "#000000",
       "id" : "2b3c4d5e-6f7a-8b9c-0d1e-2f3a4b5c6d7e",
       "imageURL" : "https:\/\/raw.githubusercontent.com\/jorgitoxp\/Regexes\/refs\/heads\/main\/mousa.m%20icons\/61.png",
       "isEnabled" : true,
@@ -341,7 +338,6 @@
     },
     {
       "borderColor" : "#000000",
-      "groupId" : "9f8e7d6c-3b2a-4f1e-9c8d-5a6b7e4f3d2c",
       "id" : "1a2b3c4d-5e6f-7a8b-9c0d-1e2f3a4b5c6d",
       "imageURL" : "https:\/\/raw.githubusercontent.com\/jorgitoxp\/Regexes\/refs\/heads\/main\/mousa.m%20icons\/51.png",
       "isEnabled" : true,
@@ -353,372 +349,16 @@
       "type" : "filter"
     },
     {
-      "groupId" : "86f4b9d4-c56a-4eb5-94fd-4e4bb227f2f9",
-      "id" : "4a6b8c9d-0e1f-2a3b-4c5d-6e7f8a9b0c1d",
-      "imageURL" : "",
-      "isEnabled" : false,
-      "name" : "🇺🇸 English",
-      "pattern" : "(?i)\\b(?:en(?:g(?:lish)?)?)\\b",
-      "tagColor" : "#000000",
+      "borderColor" : "#007AFF",
+      "id" : "88943496-A759-4E06-8BF2-5A50BE56F253",
+      "imageURL" : "https:\/\/png.pngtree.com\/png-vector\/20250806\/ourmid\/pngtree-simple-black-and-white-mobile-phone-icons-vector-png-image_17052063.webp",
+      "isEnabled" : true,
+      "name" : "WEB-DL",
+      "pattern" : "\\bWEB[-.]?DL\\b",
+      "tagColor" : "#007AFF",
       "tagStyle" : "filled",
       "textColor" : "#FFFFFF",
       "type" : "filter"
-    },
-    {
-      "groupId" : "86f4b9d4-c56a-4eb5-94fd-4e4bb227f2f9",
-      "id" : "5b6c7d8e-1f0a-2b3c-4d5e-6f7a8b9c0d1e",
-      "imageURL" : "",
-      "isEnabled" : false,
-      "name" : "🇪🇸 Spanish",
-      "pattern" : "(?i)\\b(?:spa(?:nish)?|es|esp(?:añol)?|castellano)\\b",
-      "tagColor" : "#000000",
-      "tagStyle" : "filled",
-      "textColor" : "#FFFFFF",
-      "type" : "filter"
-    },
-    {
-      "groupId" : "86f4b9d4-c56a-4eb5-94fd-4e4bb227f2f9",
-      "id" : "6c7d8e9f-0a1b-2c3d-4e5f-7a8b9c0d1e2f",
-      "imageURL" : "",
-      "isEnabled" : false,
-      "name" : "🇫🇷 French",
-      "pattern" : "(?i)\\b(?:fr(?:ench)?|fre|fra)\\b",
-      "tagColor" : "#000000",
-      "tagStyle" : "filled",
-      "textColor" : "#FFFFFF",
-      "type" : "filter"
-    },
-    {
-      "groupId" : "86f4b9d4-c56a-4eb5-94fd-4e4bb227f2f9",
-      "id" : "7d8e9f0a-1b2c-3d4e-5f6a-7b8c9d0e1f2a",
-      "imageURL" : "",
-      "isEnabled" : false,
-      "name" : "🇩🇪 German",
-      "pattern" : "(?i)\\b(?:ger(?:man)?|de|deu|deutsch)\\b",
-      "tagColor" : "#000000",
-      "tagStyle" : "filled",
-      "textColor" : "#FFFFFF",
-      "type" : "filter"
-    },
-    {
-      "groupId" : "86f4b9d4-c56a-4eb5-94fd-4e4bb227f2f9",
-      "id" : "8e9f0a1b-2c3d-4e5f-6a7b-8c9d0e1f2a3b",
-      "imageURL" : "",
-      "isEnabled" : false,
-      "name" : "🇮🇹 Italian",
-      "pattern" : "(?i)\\b(?:ita(?:lian)?|it)\\b",
-      "tagColor" : "#000000",
-      "tagStyle" : "filled",
-      "textColor" : "#FFFFFF",
-      "type" : "filter"
-    },
-    {
-      "groupId" : "86f4b9d4-c56a-4eb5-94fd-4e4bb227f2f9",
-      "id" : "9f0a1b2c-3d4e-5f6a-7b8c-9d0e1f2a3b4c",
-      "imageURL" : "",
-      "isEnabled" : false,
-      "name" : "🇵🇹 Portuguese",
-      "pattern" : "(?i)\\b(?:por(?:tuguese)?|pt|português|bra)\\b",
-      "tagColor" : "#000000",
-      "tagStyle" : "filled",
-      "textColor" : "#FFFFFF",
-      "type" : "filter"
-    },
-    {
-      "groupId" : "86f4b9d4-c56a-4eb5-94fd-4e4bb227f2f9",
-      "id" : "0a1b2c3d-4e5f-6a7b-8c9d-0e1f2a3b4c5d",
-      "imageURL" : "",
-      "isEnabled" : false,
-      "name" : "🇷🇺 Russian",
-      "pattern" : "(?i)\\b(?:rus(?:sian)?|ru|русский)\\b",
-      "tagColor" : "#000000",
-      "tagStyle" : "filled",
-      "textColor" : "#FFFFFF",
-      "type" : "filter"
-    },
-    {
-      "groupId" : "86f4b9d4-c56a-4eb5-94fd-4e4bb227f2f9",
-      "id" : "1b2c3d4e-5f6a-7b8c-9d0e-1f2a3b4c5d6e",
-      "imageURL" : "",
-      "isEnabled" : false,
-      "name" : "🇨🇳 Chinese",
-      "pattern" : "(?i)\\b(?:chs|cht|chi(?:nese)?|zh|cn|mandarin)\\b",
-      "tagColor" : "#000000",
-      "tagStyle" : "filled",
-      "textColor" : "#FFFFFF",
-      "type" : "filter"
-    },
-    {
-      "groupId" : "86f4b9d4-c56a-4eb5-94fd-4e4bb227f2f9",
-      "id" : "2c3d4e5f-6a7b-8c9d-0e1f-2a3b4c5d6e7f",
-      "imageURL" : "",
-      "isEnabled" : false,
-      "name" : "🇯🇵 Japanese",
-      "pattern" : "(?i)\\b(?:jpn?|japanese|ja)\\b",
-      "tagColor" : "#000000",
-      "tagStyle" : "filled",
-      "textColor" : "#FFFFFF",
-      "type" : "filter"
-    },
-    {
-      "groupId" : "86f4b9d4-c56a-4eb5-94fd-4e4bb227f2f9",
-      "id" : "3d4e5f6a-7b8c-9d0e-1f2a-3b4c5d6e7f8a",
-      "imageURL" : "",
-      "isEnabled" : false,
-      "name" : "🇰🇷 Korean",
-      "pattern" : "(?i)\\b(?:kor(?:ean)?|ko)\\b",
-      "tagColor" : "#000000",
-      "tagStyle" : "filled",
-      "textColor" : "#FFFFFF",
-      "type" : "filter"
-    },
-    {
-      "groupId" : "86f4b9d4-c56a-4eb5-94fd-4e4bb227f2f9",
-      "id" : "4d5e6f7a-8b9c-0d1e-2f3a-4b5c6d7e8f9a",
-      "imageURL" : "",
-      "isEnabled" : false,
-      "name" : "🇳🇱 Dutch",
-      "pattern" : "(?i)\\b(?:dut(?:ch)?|nl|nld)\\b",
-      "tagColor" : "#000000",
-      "tagStyle" : "filled",
-      "textColor" : "#FFFFFF",
-      "type" : "filter"
-    },
-    {
-      "groupId" : "86f4b9d4-c56a-4eb5-94fd-4e4bb227f2f9",
-      "id" : "5e6f7a8b-9c0d-1e2f-3a4b-5c6d7e8f9a0b",
-      "imageURL" : "",
-      "isEnabled" : false,
-      "name" : "🇸🇪 Swedish",
-      "pattern" : "(?i)\\b(?:swe(?:dish)?|sv|swe)\\b",
-      "tagColor" : "#000000",
-      "tagStyle" : "filled",
-      "textColor" : "#FFFFFF",
-      "type" : "filter"
-    },
-    {
-      "groupId" : "86f4b9d4-c56a-4eb5-94fd-4e4bb227f2f9",
-      "id" : "6f7a8b9c-0d1e-2f3a-4b5c-6d7e8f9a0b1c",
-      "imageURL" : "",
-      "isEnabled" : false,
-      "name" : "🇳🇴 Norwegian",
-      "pattern" : "(?i)\\b(?:nor(?:wegian)?|no|nor)\\b",
-      "tagColor" : "#000000",
-      "tagStyle" : "filled",
-      "textColor" : "#FFFFFF",
-      "type" : "filter"
-    },
-    {
-      "groupId" : "86f4b9d4-c56a-4eb5-94fd-4e4bb227f2f9",
-      "id" : "7a8b9c0d-1e2f-3a4b-5c6d-7e8f9a0b1c2d",
-      "imageURL" : "",
-      "isEnabled" : false,
-      "name" : "🇩🇰 Danish",
-      "pattern" : "(?i)\\b(?:dan(?:ish)?|da)\\b",
-      "tagColor" : "#000000",
-      "tagStyle" : "filled",
-      "textColor" : "#FFFFFF",
-      "type" : "filter"
-    },
-    {
-      "groupId" : "86f4b9d4-c56a-4eb5-94fd-4e4bb227f2f9",
-      "id" : "8b9c0d1e-2f3a-4b5c-6d7e-8f9a0b1c2d3e",
-      "imageURL" : "",
-      "isEnabled" : false,
-      "name" : "🇫🇮 Finnish",
-      "pattern" : "(?i)\\b(?:fin(?:nish)?|fi)\\b",
-      "tagColor" : "#000000",
-      "tagStyle" : "filled",
-      "textColor" : "#FFFFFF",
-      "type" : "filter"
-    },
-    {
-      "groupId" : "86f4b9d4-c56a-4eb5-94fd-4e4bb227f2f9",
-      "id" : "9c0d1e2f-3a4b-5c6d-7e8f-9a0b1c2d3e4f",
-      "imageURL" : "",
-      "isEnabled" : false,
-      "name" : "🇵🇱 Polish",
-      "pattern" : "(?i)\\b(?:pol(?:ish)?|pl|polski)\\b",
-      "tagColor" : "#000000",
-      "tagStyle" : "filled",
-      "textColor" : "#FFFFFF",
-      "type" : "filter"
-    },
-    {
-      "groupId" : "86f4b9d4-c56a-4eb5-94fd-4e4bb227f2f9",
-      "id" : "0d1e2f3a-4b5c-6d7e-8f9a-0b1c2d3e4f5a",
-      "imageURL" : "",
-      "isEnabled" : false,
-      "name" : "🇸🇦 Arabic",
-      "pattern" : "(?i)\\b(?:ara(?:bic)?|ar|عربي)\\b",
-      "tagColor" : "#000000",
-      "tagStyle" : "filled",
-      "textColor" : "#FFFFFF",
-      "type" : "filter"
-    },
-    {
-      "groupId" : "86f4b9d4-c56a-4eb5-94fd-4e4bb227f2f9",
-      "id" : "2f3a4b5c-6d7e-8f9a-0b1c-2d3e4f5a6b7c",
-      "imageURL" : "",
-      "isEnabled" : false,
-      "name" : "🇮🇳 Hindi",
-      "pattern" : "(?i)\\b(?:hin(?:di)?|hi|हिन्दी)\\b",
-      "tagColor" : "#000000",
-      "tagStyle" : "filled",
-      "textColor" : "#FFFFFF",
-      "type" : "filter"
-    },
-    {
-      "groupId" : "86f4b9d4-c56a-4eb5-94fd-4e4bb227f2f9",
-      "id" : "3a4b5c6d-7e8f-9a0b-1c2d-3e4f5a6b7c8d",
-      "imageURL" : "",
-      "isEnabled" : false,
-      "name" : "🇹🇷 Turkish",
-      "pattern" : "(?i)\\b(?:tur(?:kish)?|tr|tür|türkçe)\\b",
-      "tagColor" : "#000000",
-      "tagStyle" : "filled",
-      "textColor" : "#FFFFFF",
-      "type" : "filter"
-    },
-    {
-      "groupId" : "86f4b9d4-c56a-4eb5-94fd-4e4bb227f2f9",
-      "id" : "4b5c6d7e-8f9a-0b1c-2d3e-4f5a6b7c8d9e",
-      "imageURL" : "",
-      "isEnabled" : false,
-      "name" : "🇬🇷 Greek",
-      "pattern" : "(?i)\\b(?:gre(?:ek)?|el|greek|ελληνικά)\\b",
-      "tagColor" : "#000000",
-      "tagStyle" : "filled",
-      "textColor" : "#FFFFFF",
-      "type" : "filter"
-    },
-    {
-      "groupId" : "86f4b9d4-c56a-4eb5-94fd-4e4bb227f2f9",
-      "id" : "5c6d7e8f-9a0b-1c2d-3e4f-5a6b7c8d9e0f",
-      "imageURL" : "",
-      "isEnabled" : false,
-      "name" : "🇭🇺 Hungarian",
-      "pattern" : "(?i)\\b(?:hun(?:garian)?|hu|magyar)\\b",
-      "tagColor" : "#000000",
-      "tagStyle" : "filled",
-      "textColor" : "#FFFFFF",
-      "type" : "filter"
-    },
-    {
-      "groupId" : "86f4b9d4-c56a-4eb5-94fd-4e4bb227f2f9",
-      "id" : "6d7e8f9a-0b1c-2d3e-4f5a-6b7c8d9e0f1a",
-      "imageURL" : "",
-      "isEnabled" : false,
-      "name" : "🇨🇿 Czech",
-      "pattern" : "(?i)\\b(?:cze(?:ch)?|cz|cesky|čeština)\\b",
-      "tagColor" : "#000000",
-      "tagStyle" : "filled",
-      "textColor" : "#FFFFFF",
-      "type" : "filter"
-    },
-    {
-      "groupId" : "86f4b9d4-c56a-4eb5-94fd-4e4bb227f2f9",
-      "id" : "7e8f9a0b-1c2d-3e4f-5a6b-7c8d9e0f1a2b",
-      "imageURL" : "",
-      "isEnabled" : false,
-      "name" : "🇺🇦 Ukrainian",
-      "pattern" : "(?i)\\b(?:ukr(?:ainian)?|ua|укр|українська)\\b",
-      "tagColor" : "#000000",
-      "tagStyle" : "filled",
-      "textColor" : "#FFFFFF",
-      "type" : "filter"
-    },
-    {
-      "groupId" : "86f4b9d4-c56a-4eb5-94fd-4e4bb227f2f9",
-      "id" : "8f9a0b1c-2d3e-4f5a-6b7c-8d9e0f1a2b3c",
-      "imageURL" : "",
-      "isEnabled" : false,
-      "name" : "🇷🇴 Romanian",
-      "pattern" : "(?i)\\b(?:rom(?:anian)?|ro|rum|română)\\b",
-      "tagColor" : "#000000",
-      "tagStyle" : "filled",
-      "textColor" : "#FFFFFF",
-      "type" : "filter"
-    },
-    {
-      "groupId" : "86f4b9d4-c56a-4eb5-94fd-4e4bb227f2f9",
-      "id" : "9a0b1c2d-3e4f-5a6b-7c8d-9e0f1a2b3c4d",
-      "imageURL" : "",
-      "isEnabled" : false,
-      "name" : "🇧🇬 Bulgarian",
-      "pattern" : "(?i)\\b(?:bul(?:garian)?|bg|български)\\b",
-      "tagColor" : "#000000",
-      "tagStyle" : "filled",
-      "textColor" : "#FFFFFF",
-      "type" : "filter"
-    },
-    {
-      "groupId" : "86f4b9d4-c56a-4eb5-94fd-4e4bb227f2f9",
-      "id" : "0b1c2d3e-4f5a-6b7c-8d9e-0f1a2b3c4d5e",
-      "imageURL" : "",
-      "isEnabled" : false,
-      "name" : "🇻🇳 Vietnamese",
-      "pattern" : "(?i)\\b(?:vie(?:tnamese)?|vi|tiếng viet)\\b",
-      "tagColor" : "#000000",
-      "tagStyle" : "filled",
-      "textColor" : "#FFFFFF",
-      "type" : "filter"
-    },
-    {
-      "groupId" : "86f4b9d4-c56a-4eb5-94fd-4e4bb227f2f9",
-      "id" : "1c2d3e4f-5a6b-7c8d-9e0f-1a2b3c4d5e6f",
-      "imageURL" : "",
-      "isEnabled" : false,
-      "name" : "🇹🇭 Thai",
-      "pattern" : "(?i)\\b(?:tha(?:i)?|th|ไทย)\\b",
-      "tagColor" : "#000000",
-      "tagStyle" : "filled",
-      "textColor" : "#FFFFFF",
-      "type" : "filter"
-    }
-  ],
-  "groups" : [
-    {
-      "color" : "#96CEB4",
-      "id" : "7c211433-9f2b-4e2f-9b8c-2f9a8e8c8b1e",
-      "isExpanded" : false,
-      "name" : "Media Source"
-    },
-    {
-      "color" : "#4ECDC4",
-      "id" : "550e8400-e29b-41d4-a716-446655440000",
-      "isExpanded" : false,
-      "name" : "Resolution"
-    },
-    {
-      "color" : "#FF6B6B",
-      "id" : "6ba7b810-9dad-11d1-80b4-00c04fd430c8",
-      "isExpanded" : false,
-      "name" : "Dynamic Range"
-    },
-    {
-      "color" : "#45B7D1",
-      "id" : "8e4b6f8e-2c1e-4f6b-9e8d-3f7a9d1c2e3f",
-      "isExpanded" : false,
-      "name" : "Audio"
-    },
-    {
-      "color" : "#FFD700",
-      "id" : "9f8e7d6c-3b2a-4f1e-9c8d-5a6b7e4f3d2c",
-      "isExpanded" : false,
-      "name" : "Audio Channels"
-    },
-    {
-      "color" : "#FFA07A",
-      "id" : "86f4b9d4-c56a-4eb5-94fd-4e4bb227f2f9",
-      "isExpanded" : false,
-      "name" : "Stream Languages"
-    },
-    {
-      "color" : "#007AFF",
-      "id" : "FCE12456-D5AE-4AAE-B4CB-79F781C161EF",
-      "isExpanded" : true,
-      "name" : "WEB-DL"
     }
   ]
 }
