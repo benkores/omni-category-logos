@@ -351,7 +351,6 @@
     {
       "borderColor" : "#007AFF",
       "id" : "88943496-A759-4E06-8BF2-5A50BE56F253",
-      "imageURL" : "https:\/\/png.pngtree.com\/png-vector\/20250806\/ourmid\/pngtree-simple-black-and-white-mobile-phone-icons-vector-png-image_17052063.webp",
       "isEnabled" : true,
       "name" : "WEB-DL",
       "pattern" : "\\bWEB[-.]?DL\\b",
@@ -360,5 +359,5 @@
       "textColor" : "#FFFFFF",
       "type" : "filter"
     }
-  ]
+  ],
 }
